@@ -61,7 +61,7 @@ public class AppFrame extends JFrame {
                 g.setColor(color);
                 g.fillRect(40*j, 40*i, 40, 40);
 
-                g.setColor(new Color(75, 61, 46));
+                g.setColor(new Color(121, 81, 38));
                 g.drawRect(40*j, 40*i, 40, 40);
 
                 
