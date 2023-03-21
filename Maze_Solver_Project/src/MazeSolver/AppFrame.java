@@ -37,8 +37,7 @@ public class AppFrame extends JFrame {
     public void paint(Graphics g){
 
         Image img = Toolkit.getDefaultToolkit().getImage("images/381-3813016_download-jungle-background-png-clipart-tropical-and-cartoon.png");
-        Image scaledimg=img.getScaledInstance(640, getHeight(), Image.SCALE_SMOOTH);
-
+       
         g.drawImage(img, 0, 0 , null);
 
         g.translate(130, 70);
