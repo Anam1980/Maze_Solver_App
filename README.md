@@ -1,8 +1,8 @@
 
 # Maze_Solver_App
 
--The Java application which provides the shortest solution path in a maze from start to the destination.
--It utilizes Depth Force Search (DFS) algorithm for solution path.
+- The Java application which provides the shortest solution path in a maze from start to the destination.
+- It utilizes Depth Force Search (DFS) algorithm for solution path.
 -The app provides Graphical User Interface for visualizing the maze and the solution.
 
 ## INSTALLATION
