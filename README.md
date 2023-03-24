@@ -23,7 +23,7 @@ The main components of the code are:
 
 ## CONTRIBUTION
 * I used some external resources for guidance : 
-    * [JavaPoint Java Swing](https://www.javatpoint.com/java-swing)
+    * [javaTpoint Java Swing](https://www.javatpoint.com/java-swing)
     * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
 
 
