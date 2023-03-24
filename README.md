@@ -3,7 +3,7 @@
 
 * The Java application which provides the shortest solution path in a maze from start to the destination.
 * It utilizes Depth Force Search (DFS) algorithm for solution path.
-* The app provides Graphical User Interface for visualizing the maze and the solution.
+* The app provides Graphical User Interface using Java Swing for visualizing the maze and the solution.
 
 ## USAGE
 * Simply, open the project in your preffered IDE.
