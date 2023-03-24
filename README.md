@@ -21,8 +21,8 @@ The main components of the code are:
 -Maze: A data structure that represents the maze and provides methods for manipulating it.
 
 ## CONTRIBUTION
--I use some external resources for guidance : 
-*[JavaPoint Java Swing](https://www.javatpoint.com/java-swing)
++I use some external resources for guidance : 
+* [JavaPoint Java Swing](https://www.javatpoint.com/java-swing)
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
 
 
