@@ -5,8 +5,9 @@
 * It utilizes Depth Force Search (DFS) algorithm for solution path.
 * The app provides Graphical User Interface for visualizing the maze and the solution.
 
-## INSTALLATION
+## USAGE
 * Simply, open the project in your preffered IDE.
+* Launch the app by running the AppFrame class.
 
 ## ALGORITHM
 * The app uses Depth-First Search algorithm to find the solution path in the maze.
