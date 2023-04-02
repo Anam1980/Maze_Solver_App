@@ -27,7 +27,7 @@ The main components of the code are:
     * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
     
 ## :large_blue_circle:SCREENSHOT
-* ⭕ Screenshot of Maze_Solver Application Interface:
+
  ![Maze_Solver Interface SS](./maze_solver.png);
 
 
