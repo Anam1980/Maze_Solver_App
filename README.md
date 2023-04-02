@@ -28,5 +28,5 @@ The main components of the code are:
     
     
 
-       ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
+       ### :v:***Contributions are welcome! Feel free to submit pull requests or open issues!!***:smiley:
 
