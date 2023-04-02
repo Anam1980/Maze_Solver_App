@@ -26,7 +26,10 @@ The main components of the code are:
     * [javaTpoint Java Swing](https://www.javatpoint.com/java-swing)
     * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
     
-    
+## :large_blue_circle:SCREENSHOT
+* ⭕ Screenshot of Maze_Solver Application Interface:
+ ![Maze_Solver Interface SS](./maze_solver.png);
 
-       ### :v:***Contributions are welcome! Feel free to submit pull requests or open issues!!***:relaxed:
+
+   ### :v:***Contributions are welcome! Feel free to submit pull requests or open issues!!***:relaxed:
 
