@@ -21,7 +21,7 @@ The main components of the code are:
 * 🔹DFS: A helper class that implements the Depth-First Search algorithm.
 * 🔹Maze: A data structure that represents the maze and provides methods for manipulating it.
 
-## :large_blue_circle:CONTRIBUTION
+## :large_blue_circle:RESOURCES
 * I used some external resources for guidance : 
     * [javaTpoint Java Swing](https://www.javatpoint.com/java-swing)
     * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
